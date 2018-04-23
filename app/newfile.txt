@@ -2,3 +2,5 @@ This is a new file
 the second line.
 the third line added by dengyong.
 4line
+
+5line
